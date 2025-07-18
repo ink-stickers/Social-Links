@@ -28,6 +28,7 @@ body{
     text-align: center;
     margin: 0 auto;
     box-sizing: border-box;
+    max-width: 20rem;
 }
 
 .photo{
