@@ -14,10 +14,10 @@ body{
     border-radius:2rem;
     margin:0;
     padding: 0;
-    min-height: vh;
+    min-height: 100vh;
     align-items: center;
     justify-content: center;
-    width: vw;
+    width: 100vw;
     display: flex;
     box-sizing: border-box;
 
