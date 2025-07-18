@@ -63,3 +63,12 @@ li:hover{
     color:hsl(0, 0%, 8%)
 }
 
+@media (max-width: 600px) {
+    body {
+        border-radius: 0;
+        margin: 0;
+        padding: 2rem;
+        max-width: 100%;
+    }
+}
+
